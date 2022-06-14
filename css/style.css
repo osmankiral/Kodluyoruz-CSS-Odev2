@@ -1,0 +1,45 @@
+.container {
+    width: 90%; 
+    text-align: center; 
+    margin: auto;
+    margin-top: auto;
+    margin-top: 200px;
+}
+.search {
+    width: 18%;
+    margin-left: auto;
+}
+.box2 {
+    background-color: #EEEEEE;
+    margin-bottom: 8px;
+}
+.inbox1 {
+    background-color: #7EE5DA;
+    width: 37%;
+    float: left;
+    margin-right: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.inbox2 {
+    background-color: #70CCC2;
+    width: 20%;
+    float: left;
+    margin-right: 8px;
+    padding-bottom: 2px;
+}
+.inbox3 {
+    background-color: #62B3AA;
+    width: 42%;
+    float: left;
+    font-size: small;
+
+}   
+.box4 {
+    font-size: small;
+    padding-top: 70px;
+}
+.clear {
+    clear: both;
+}
+
